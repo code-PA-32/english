@@ -695,6 +695,9 @@ a {
     margin-bottom: 5px;
     font-size: 16px;
   }
+  .footer-form input:last-of-type{
+    padding: 10px;
+  }
   .footer-form {
     width: 100%;
     padding: 0 20px;
